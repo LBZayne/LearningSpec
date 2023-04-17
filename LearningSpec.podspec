@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |spec|
-  
+
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
   #  These will help people to find your library, and whilst it
@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "LearningSpec"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "Learn to deploy a new repository."
   spec.swift_versions = ['5']
   # This description is used to generate tags and improve search results.
